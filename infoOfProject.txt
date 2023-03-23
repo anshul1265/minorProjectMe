@@ -1,0 +1,1 @@
+here we are getting the ss and dom of the website seperately
